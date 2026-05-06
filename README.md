@@ -10,5 +10,6 @@
 | [0184-department-highest-salary](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0184-department-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0577-employee-bonus/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
