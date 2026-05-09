@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0175-combine-two-tables/) | Easy |
+| [0177-nth-highest-salary](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0184-department-highest-salary/) | Medium |
