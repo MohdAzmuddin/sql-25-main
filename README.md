@@ -15,4 +15,28 @@
 | [0577-employee-bonus](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0577-employee-bonus/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
