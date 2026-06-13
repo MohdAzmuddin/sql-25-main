@@ -1,6 +1,6 @@
 class Solution {
     public String toLowerCase(String s) {
-        //return s.toLowerCase();
+        //return s.toLowerCase();// direct
         //other way
         char[] arr = s.toCharArray();
         for(int i=0;i<arr.length;i++){
