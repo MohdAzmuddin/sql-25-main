@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0014-longest-common-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 | [0709-to-lower-case](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0709-to-lower-case/) | Easy |
 ## Dynamic Programming
@@ -63,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0014-longest-common-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
