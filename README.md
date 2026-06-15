@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0014-longest-common-prefix/) | Easy |
+| [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,12 +44,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 ## String
