@@ -28,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0504-base-7/) | Easy |
@@ -62,6 +63,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0070-climbing-stairs/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -71,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
