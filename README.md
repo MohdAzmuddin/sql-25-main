@@ -63,6 +63,7 @@
 | [0344-reverse-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0504-base-7/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 | [0709-to-lower-case](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0709-to-lower-case/) | Easy |
 ## Dynamic Programming
