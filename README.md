@@ -36,6 +36,7 @@
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0504-base-7/) | Easy |
+| [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -90,9 +92,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
