@@ -37,6 +37,7 @@
 | [0415-add-strings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
