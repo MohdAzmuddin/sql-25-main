@@ -23,6 +23,7 @@
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +62,7 @@
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +70,7 @@
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 ## String
 | Problem Name | Difficulty |
