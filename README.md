@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0014-longest-common-prefix/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
@@ -50,6 +51,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -130,4 +132,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
