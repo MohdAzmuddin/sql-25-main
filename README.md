@@ -23,6 +23,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -136,4 +138,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
