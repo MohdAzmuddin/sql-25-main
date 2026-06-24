@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
@@ -113,6 +114,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0415-add-strings/) | Easy |
+| [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
