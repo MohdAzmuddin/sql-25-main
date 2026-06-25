@@ -30,6 +30,7 @@
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
