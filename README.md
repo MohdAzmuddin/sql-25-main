@@ -28,6 +28,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
@@ -129,6 +130,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
