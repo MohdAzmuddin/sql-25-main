@@ -49,6 +49,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0263-ugly-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0342-power-of-four/) | Easy |
