@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -177,4 +179,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
