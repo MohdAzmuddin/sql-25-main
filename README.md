@@ -61,6 +61,7 @@
 | [0202-happy-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0412-fizz-buzz/) | Easy |
@@ -192,4 +193,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
