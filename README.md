@@ -34,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0506-relative-ranks](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0506-relative-ranks/) | Easy |
 | [0575-distribute-candies](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0575-distribute-candies/) | Easy |
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -103,6 +104,7 @@
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0506-relative-ranks](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0506-relative-ranks/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0506-relative-ranks](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0506-relative-ranks/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
