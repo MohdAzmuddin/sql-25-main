@@ -77,6 +77,7 @@
 | [0504-base-7](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
