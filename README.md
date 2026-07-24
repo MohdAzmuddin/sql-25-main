@@ -43,6 +43,7 @@
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -79,6 +80,7 @@
 | [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
@@ -216,4 +218,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0292-nim-game/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
