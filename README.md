@@ -117,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0202-happy-number/) | Easy |
@@ -130,6 +131,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -222,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
