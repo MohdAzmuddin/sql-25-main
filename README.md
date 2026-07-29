@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -124,6 +126,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0287-find-the-duplicate-number/) | Medium |
