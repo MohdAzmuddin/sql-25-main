@@ -49,6 +49,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -101,6 +102,7 @@
 | [0441-arranging-coins](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0441-arranging-coins/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@
 | [0506-relative-ranks](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0506-relative-ranks/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -136,6 +139,7 @@
 | [0344-reverse-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
