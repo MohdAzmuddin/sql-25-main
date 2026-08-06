@@ -43,6 +43,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -91,6 +92,7 @@
 | [0507-perfect-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
