@@ -54,6 +54,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
@@ -207,6 +208,7 @@
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
