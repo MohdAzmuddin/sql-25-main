@@ -29,6 +29,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0283-move-zeroes/) | Easy |
@@ -68,6 +69,7 @@
 | [0202-happy-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -130,6 +132,7 @@
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -220,6 +223,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -272,4 +276,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
