@@ -55,6 +55,7 @@
 | [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -80,6 +81,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
