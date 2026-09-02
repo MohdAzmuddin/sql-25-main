@@ -65,6 +65,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
