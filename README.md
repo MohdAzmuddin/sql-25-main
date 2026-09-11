@@ -107,6 +107,7 @@
 | [0509-fibonacci-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
