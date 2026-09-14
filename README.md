@@ -46,6 +46,7 @@
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -108,6 +109,7 @@
 | [0728-self-dividing-numbers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
