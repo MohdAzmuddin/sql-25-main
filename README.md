@@ -114,6 +114,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
