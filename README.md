@@ -117,6 +117,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
@@ -301,6 +302,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1952-three-divisors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
