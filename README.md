@@ -122,6 +122,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -224,6 +225,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
