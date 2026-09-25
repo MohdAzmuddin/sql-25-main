@@ -130,6 +130,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
