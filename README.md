@@ -50,6 +50,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -171,6 +172,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
@@ -287,6 +289,7 @@
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0506-relative-ranks](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0506-relative-ranks/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
