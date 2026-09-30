@@ -132,6 +132,7 @@
 | [2413-smallest-even-multiple](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2469-convert-the-temperature](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
