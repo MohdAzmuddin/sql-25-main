@@ -129,6 +129,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -314,6 +315,7 @@
 | [1952-three-divisors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +325,7 @@
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -336,4 +339,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1952-three-divisors/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
