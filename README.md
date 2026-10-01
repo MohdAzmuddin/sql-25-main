@@ -63,6 +63,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -136,6 +137,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
