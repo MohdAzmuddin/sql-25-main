@@ -135,6 +135,7 @@
 | [2469-convert-the-temperature](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
