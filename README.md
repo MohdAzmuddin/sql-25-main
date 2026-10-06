@@ -28,6 +28,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0136-single-number/) | Easy |
+| [0164-maximum-gap](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -180,6 +181,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0242-valid-anagram/) | Easy |
@@ -365,4 +367,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
