@@ -68,6 +68,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
@@ -345,6 +346,7 @@
 | [1925-count-square-sum-triples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
