@@ -148,6 +148,7 @@
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
+| [3099-harshad-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3099-harshad-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
