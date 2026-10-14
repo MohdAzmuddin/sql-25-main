@@ -72,6 +72,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -149,6 +150,7 @@
 | [2806-account-balance-after-rounded-purchase](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
 | [3099-harshad-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3099-harshad-number/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -260,6 +262,7 @@
 | [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +320,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0506-relative-ranks](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0506-relative-ranks/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
