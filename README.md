@@ -158,6 +158,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3908-valid-digit-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3908-valid-digit-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
