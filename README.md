@@ -156,6 +156,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -269,6 +270,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
