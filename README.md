@@ -67,6 +67,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2540-minimum-common-value/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -101,6 +102,7 @@
 | [1748-sum-of-unique-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2540-minimum-common-value](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2540-minimum-common-value/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
@@ -147,6 +149,7 @@
 | [2525-categorize-box-according-to-criteria](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2652-sum-multiples](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2652-sum-multiples/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
@@ -269,6 +272,7 @@
 | [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
