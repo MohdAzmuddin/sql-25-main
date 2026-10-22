@@ -82,6 +82,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3908-valid-digit-number/) | Easy |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +357,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@
 | [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
