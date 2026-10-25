@@ -159,6 +159,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3516-find-closest-person](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
