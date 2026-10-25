@@ -159,6 +159,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -214,6 +215,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Two Pointers
