@@ -254,6 +254,7 @@
 | [0709-to-lower-case](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -281,6 +282,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
