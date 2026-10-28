@@ -62,6 +62,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -253,6 +254,7 @@
 | [0647-palindromic-substrings](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0647-palindromic-substrings/) | Medium |
 | [0709-to-lower-case](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
@@ -277,6 +279,7 @@
 | [0867-transpose-matrix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0867-transpose-matrix/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
