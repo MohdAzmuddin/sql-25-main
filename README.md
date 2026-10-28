@@ -64,6 +64,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -255,6 +256,7 @@
 | [0709-to-lower-case](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
@@ -370,6 +372,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
