@@ -85,6 +85,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
+| [4020-elevator-requests-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4020-elevator-requests-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
+| [4020-elevator-requests-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4020-elevator-requests-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
