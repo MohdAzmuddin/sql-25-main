@@ -74,6 +74,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -231,6 +232,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -358,6 +360,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
