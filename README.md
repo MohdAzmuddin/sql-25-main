@@ -274,6 +274,7 @@
 | [0709-to-lower-case](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
