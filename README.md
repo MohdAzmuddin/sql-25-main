@@ -85,6 +85,7 @@
 | [3295-report-spam-message](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3295-report-spam-message/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3731-find-missing-elements/) | Easy |
@@ -172,6 +173,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3516-find-closest-person](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -376,6 +378,7 @@
 | [0219-contains-duplicate-ii](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +394,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdAzmuddin/sql-25-main/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -405,6 +409,7 @@
 | [2427-number-of-common-factors](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/MohdAzmuddin/sql-25-main/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
