@@ -173,6 +173,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3516-find-closest-person](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -307,6 +308,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdAzmuddin/sql-25-main/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3360-stone-removal-game/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3894-traffic-signal-color](https://github.com/MohdAzmuddin/sql-25-main/tree/main/3894-traffic-signal-color/) | Easy |
